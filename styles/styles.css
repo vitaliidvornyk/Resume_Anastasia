@@ -34,6 +34,7 @@ body {
 }
 
 .about-name {
+	text-align: center;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 45px;
@@ -58,11 +59,12 @@ body {
 }
 
 .title {
+	text-align: center;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
 	line-height: 27px;
-	color: #000000;
+	color: #21736c;
 	margin-bottom: 10px;
 }
 
@@ -118,7 +120,7 @@ body {
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 20px;
-	color: #fb6d3a;
+	color: #22c08f;
 }
 
 .period {
@@ -158,7 +160,7 @@ body {
 /* sidebar styles */
 
 .sidebar {
-	background-color: #410c41;
+	background-color: #0e5353;
 	padding-top: 40px;
 	width: 370px;
 }
